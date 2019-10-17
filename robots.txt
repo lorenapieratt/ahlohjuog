@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iorienohpi.photoucan.com/sitemap.xml
